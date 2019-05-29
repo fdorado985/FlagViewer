@@ -54,6 +54,7 @@
 		A928C329229E3F2800851944 /* FlagViewer */ = {
 			isa = PBXGroup;
 			children = (
+				A928C33C229E40E000851944 /* Content */,
 				A928C32A229E3F2800851944 /* AppDelegate.swift */,
 				A928C32C229E3F2800851944 /* ViewController.swift */,
 				A928C32E229E3F2800851944 /* Main.storyboard */,
@@ -62,6 +63,13 @@
 				A928C336229E3F2900851944 /* Info.plist */,
 			);
 			path = FlagViewer;
+			sourceTree = "<group>";
+		};
+		A928C33C229E40E000851944 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
